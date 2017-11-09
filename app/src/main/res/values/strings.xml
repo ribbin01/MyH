@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="app_title">Test Layout by Ribbin</string>
+    <string name="btn01">จัดการรายรับรายจ่าย</string>
+    <string name="btn02">จัดการบัตร</string>
+    <string name="btn03">จัดการเงินฝากธนาคาร</string>
+    <string name="btn04">จัดการแผน</string>
+    <string name="btn05">สนับสนุนการตัดสินใจ</string>
+    <string name="expense_title">จัดการรายรับรายจ่าย</string>
+    <string name="title_activity_splash">Splash</string>
+
+</resources>
